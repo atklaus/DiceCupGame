@@ -1,11 +1,3 @@
-"""
-DSC 430
-Adam Klaus
-February 1st, 2021
-Video Link: https://www.youtube.com/watch?v=4FjLgABiUbc
-"I have not given or received any unauthorized assistance on this assignment"
-"""
-
 import random
 
 class SixSidedDie:
